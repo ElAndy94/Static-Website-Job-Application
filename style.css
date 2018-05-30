@@ -100,8 +100,62 @@
 .newsAndJobs {
     position: relative;
     bottom: -193px;
-    /*left:185px;*/
-    /*padding-top: 75px;*/
-    /*padding-left: 100px;*/
-    background-color: royalblue;
+    height: 550px;
+    width: 1440px;
+    background-color: dodgerblue;
+}
+
+.image5 {
+    position: absolute;
+    top: 100px;
+    left: 240px;
+}
+
+.image6 {
+    position: absolute;
+    top: 100px;
+    left: 750px;
+}
+
+.news {
+    position: relative;
+    left: 280px;
+    bottom: -295px;
+}
+
+.jobs {
+    position: relative;
+    left: 790px;
+    bottom: -160px;
+}
+
+.news1 {
+    position: relative;
+    left: 200px;
+    bottom: -293px;
+    max-width: 320px;
+    font-family: courier;
+    color: #ffffff;
+}
+
+.jobs1 {
+    position: relative;
+    left: 690px;
+    bottom: -160px;
+    max-width: 320px;
+    font-family: courier;
+    color: #ffffff;
+}
+
+#newsBtn {
+    position: relative;
+    left: 265px;
+    bottom: -80px;
+    /*left: 100px;*/
+}
+
+#jobsBtn {
+    position: relative;
+    left: 650px;
+    bottom: -80px;
 }
