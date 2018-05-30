@@ -121,6 +121,7 @@
     position: relative;
     left: 280px;
     bottom: -295px;
+    /*max-width: 100px;*/
     color: #ffffff;
 }
 
@@ -128,6 +129,7 @@
     position: relative;
     left: 790px;
     bottom: -160px;
+    /*max-width: 200px;*/
     color: #ffffff;
 }
 
@@ -173,13 +175,13 @@
 
 .image8 {
     position: relative;
-    bottom: 600px;
-    left:585px;
+    bottom: 650px;
+    left: 585px;
 }
 
 #teacherH1 {
     position: relative;
-    top: -416px;
+    top: -398px;
     left: 340px;
     font-family: courier;
     color: #395c9e;
@@ -187,8 +189,59 @@
 
 #downloadTheApp {
     position: relative;
-    top: -400px;
+    top: -385px;
     left: 343px;
+    max-width: 350px;
     font-family: courier;
     color: #395c9e;
+}
+
+#iosWhite {
+    position: absolute;
+    width: 270px;
+    top: 481px;
+    left: 339px;
+}
+
+.connectUs {
+    position: relative;
+    top: -425px;
+    width: 1404px;
+    height: 215px;
+    background-color: #3f62a4;
+}
+
+#connectWithUs {
+    position: relative;
+    left: 350px;
+    bottom: -20px;
+    color: #ffffff;
+    font-family: courier;
+}
+
+.image9 {
+    position: relative;
+    left: 420px;
+    bottom: -30px;
+    height: 100px;
+}
+
+.image10 {
+    position: absolute;
+    left: 300px;
+    top: -214px;
+    padding-left: 30px;
+}
+
+.footer {
+    position: absolute;
+    top: 3583px;
+}
+
+.card-body {
+    position: absolute;
+    top: -120px;
+    left: 250px;
+    width: 669px;
+    font-family: courier;
 }
