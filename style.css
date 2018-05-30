@@ -4,17 +4,46 @@
     left: 0;
 }
 
+.nav-item {
+    padding-left: 20px;
+    padding-top: 5px;
+}
+
 .image1 {
     position: relative;
     top: 0;
     left: 0;
+    max-width: 1400px;
 }
 
 .image2 {
     position: absolute;
     top: 140px;
-    left: 540px;
+    left: 639px;
     width: 389px;
+    height: 57px;
+}
+
+#aDream {
+    position: absolute;
+    top: 220px;
+    left: 639px;
+    max-width: 400px;
+    color: #ffffff;
+    font-family: courier;
+}
+
+#signUpNow {
+    position: absolute;
+    top: 330px;
+    left: 906px;
+}
+
+.image11 {
+    position: absolute;
+    top: 400px;
+    left: 830px;
+    width: 200px;
     height: 57px;
 }
 
