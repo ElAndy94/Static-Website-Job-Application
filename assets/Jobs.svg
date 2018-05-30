@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160px" height="162px" viewBox="0 0 160 162" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Jobs</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="70.0046861" cy="70.6566782" r="69.9164385"></circle>
+        <filter x="-7.5%" y="-7.5%" width="129.3%" height="130.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="10" dy="11" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.222769475 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-3" points="0 51 60 51 60 0 0 0"></polygon>
+        <polygon id="path-5" points="0 51 60 51 60 0 0 0"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-3" transform="translate(-890.000000, -1929.000000)">
+            <g id="Jobs" transform="translate(890.000000, 1929.000000)">
+                <g id="Oval-Copy-3">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Page-1" transform="translate(40.004686, 45.156678)">
+                    <g id="Group-3">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M58,47.9896 C58,48.5506 57.55,49.0006 56.99,49.0006 L52,49.0006 L52,10.9996 L56.99,10.9996 C57.55,10.9996 58,11.4496 58,12.0096 L58,47.9896 Z M10,48.9996 L50,48.9996 L50,10.9996 L10,10.9996 L10,48.9996 Z M8,49.0006 L3.01,49.0006 C2.45,49.0006 2,48.5506 2,47.9896 L2,12.0096 C2,11.4496 2.45,10.9996 3.01,10.9996 L8,10.9996 L8,49.0006 Z M7,8.9996 L13,8.9996 L13,7.9996 L7,7.9996 L7,8.9996 Z M21,3.2096 C21,2.5396 21.54,1.9996 22.21,1.9996 L37.79,1.9996 C38.46,1.9996 39,2.5396 39,3.2096 L39,8.9996 L21,8.9996 L21,3.2096 Z M47,8.9996 L53,8.9996 L53,7.9996 L47,7.9996 L47,8.9996 Z M56.99,8.9996 L55,8.9996 L55,5.9996 L45,5.9996 L45,8.9996 L41,8.9996 L41,3.2096 C41,1.4396 39.56,-0.0004 37.79,-0.0004 L22.21,-0.0004 C20.44,-0.0004 19,1.4396 19,3.2096 L19,8.9996 L15,8.9996 L15,5.9996 L5,5.9996 L5,8.9996 L3.01,8.9996 C1.35,8.9996 0,10.3496 0,12.0096 L0,47.9896 C0,49.6496 1.35,51.0006 3.01,51.0006 L56.99,51.0006 C58.65,51.0006 60,49.6496 60,47.9896 L60,12.0096 C60,10.3496 58.65,8.9996 56.99,8.9996 L56.99,8.9996 Z" id="Fill-1" fill="#385E9D" mask="url(#mask-4)"></path>
+                    </g>
+                    <path d="M58,43.6605 L58,47.9895 C58,48.5505 57.55,49.0005 56.99,49.0005 L52.1,49.0005 C52.79,46.2105 55.12,44.0695 58,43.6605" id="Fill-4" fill="#D8E2ED"></path>
+                    <path d="M7.7402,49.0004 L3.0102,49.0004 C2.4502,49.0004 2.0002,48.5504 2.0002,47.9894 L2.0002,43.6804 C4.8102,44.1404 7.0702,46.2604 7.7402,49.0004" id="Fill-6" fill="#D8E2ED"></path>
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <g id="Clip-9"></g>
+                    <polygon id="Fill-8" fill="#D8E2ED" mask="url(#mask-6)" points="7 9 13 9 13 8 7 8"></polygon>
+                    <polygon id="Fill-10" fill="#D8E2ED" mask="url(#mask-6)" points="47 9 53 9 53 8 47 8"></polygon>
+                    <path d="M8,45.2396 C6.57,43.3706 4.44,42.0696 2,41.7506 C1.61,41.6996 1.21,41.6706 0.81,41.6706 C0.54,41.6706 0.27,41.6796 0,41.7106 L0,43.6206 C0.27,43.5906 0.54,43.5696 0.81,43.5696 C1.22,43.5696 1.61,43.5996 2,43.6796 C4.81,44.1396 7.07,46.2606 7.74,49.0006 C7.89,49.5506 7.96,50.1306 7.96,50.7296 C7.96,50.8196 7.96,50.9106 7.95,51.0006 L9.85,51.0006 C9.86,50.9106 9.86,50.8196 9.86,50.7296 C9.86,48.6606 9.16,46.7606 8,45.2396" id="Fill-11" fill="#385E9D" mask="url(#mask-6)"></path>
+                    <path d="M59.04,41.6703 C58.69,41.6703 58.34,41.6903 58,41.7303 C55.59,42.0103 53.46,43.2393 52,45.0403 C50.74,46.6003 49.98,48.5693 49.98,50.7303 C49.98,50.8193 49.98,50.9103 49.99,51.0003 L51.89,51.0003 C51.88,50.9103 51.88,50.8193 51.88,50.7303 C51.88,50.1303 51.95,49.5503 52.1,49.0003 C52.79,46.2103 55.12,44.0693 58,43.6603 C58.34,43.6003 58.69,43.5693 59.04,43.5693 C59.37,43.5693 59.69,43.5903 60,43.6493 L60,41.7203 C59.68,41.6903 59.36,41.6703 59.04,41.6703" id="Fill-12" fill="#385E9D" mask="url(#mask-6)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
