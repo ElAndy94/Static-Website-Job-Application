@@ -1,12 +1,22 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 .parent {
     position: relative;
     top: 0;
     left: 0;
 }
 
+.navbar-brand{
+    font-family: courier;
+}
+
 .nav-item {
     padding-left: 20px;
     padding-top: 5px;
+    font-family: courier;
 }
 
 .image1 {
