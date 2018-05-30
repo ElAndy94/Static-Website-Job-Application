@@ -40,7 +40,7 @@
     padding-top: 50px;
     padding-left: 100px;
     padding-bottom: 200px;
-    color: dodgerblue;
+    color: #395c9e;
     font-family: courier;
 }
 
@@ -49,7 +49,7 @@
     padding-top: 120px;
     padding-left: 100px;
     padding-bottom: 100px;
-    color: dodgerblue;
+    color: #395c9e;
     font-family: courier;
 }
 
@@ -72,7 +72,7 @@
     padding-top: 65px;
     padding-left: 615px;
     padding-bottom: 200px;
-    color: dodgerblue;
+    color: #395c9e;
     font-family: courier;
 }
 
@@ -81,7 +81,7 @@
     padding-top: 130px;
     padding-left: 615px;
     padding-bottom: 100px;
-    color: dodgerblue;
+    color: #395c9e;
     font-family: courier;
 }
 
@@ -102,7 +102,7 @@
     bottom: -193px;
     height: 550px;
     width: 1440px;
-    background-color: dodgerblue;
+    background-color: #395c9e;
 }
 
 .image5 {
@@ -121,12 +121,14 @@
     position: relative;
     left: 280px;
     bottom: -295px;
+    color: #ffffff;
 }
 
 .jobs {
     position: relative;
     left: 790px;
     bottom: -160px;
+    color: #ffffff;
 }
 
 .news1 {
@@ -151,11 +153,42 @@
     position: relative;
     left: 265px;
     bottom: -80px;
-    /*left: 100px;*/
 }
 
 #jobsBtn {
     position: relative;
     left: 650px;
     bottom: -80px;
+}
+
+.downloadApp {
+    position: relative;
+    bottom: -154px;
+}
+
+.image7 {
+    position: relative;
+    width: 1100px;
+}
+
+.image8 {
+    position: relative;
+    bottom: 600px;
+    left:585px;
+}
+
+#teacherH1 {
+    position: relative;
+    top: -416px;
+    left: 340px;
+    font-family: courier;
+    color: #395c9e;
+}
+
+#downloadTheApp {
+    position: relative;
+    top: -400px;
+    left: 343px;
+    font-family: courier;
+    color: #395c9e;
 }
